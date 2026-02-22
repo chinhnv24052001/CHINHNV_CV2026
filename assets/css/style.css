@@ -316,6 +316,11 @@ section {
   color: #173b6c;
 }
 
+.cv-title {
+  color: #173b6c;
+  font-weight: bold;
+}
+
 .section-title h2::after {
   content: "";
   position: absolute;
